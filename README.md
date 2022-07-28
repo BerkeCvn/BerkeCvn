@@ -5,3 +5,5 @@ I'm Berke Civan from Turkiye, And I am a student at Sultangazi Mesleki ve Teknik
 Here is my youtube channel https://www.youtube.com/channel/UCNBqTaOVo9i7CU04y-osQTA 
 
 I'm still a beginner in this business but I will continue to increase the videos to pass my experience to beginners
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkeCvn)](https://github.com/anuraghazra/github-readme-stats)
