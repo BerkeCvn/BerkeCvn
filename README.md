@@ -1,10 +1,10 @@
 ### Hi there 👋, Berke Civan
 #### Design and Software
-![Design and Software](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and Software]
 
 I'm Berke Civan from Turkiye, And I am a student at Sultangazi Mesleki ve Teknik Anadolu Lisesi. I'm trying to improve myself on the frontend. Coding is a source of entertainment for me. I do this for fun. I created a channel on youtube because I had fun doing this. I am giving training in the field of frontend by speaking Turkish.
 
-Skills: JS / HTML / CSS
+### Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on Birleşikreklamcılar 
 - 🌱 I’m currently learning JavaScript 
