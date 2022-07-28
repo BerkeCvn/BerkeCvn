@@ -1,4 +1,4 @@
-### Hi there 👋, Berke Civan
+### Berke Civan
 #### Design and Software
 ![Design and Software]
 
