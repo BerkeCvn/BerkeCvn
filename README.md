@@ -7,7 +7,7 @@ I'm Berke Civan from Turkiye, And I am a student at Sultangazi Mesleki ve Teknik
 Skills: HTML / CSS / JS
 
 - 🔭 I’m currently working on Birleşikreklamcılar 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Bootstrap
 - 🤔 I’m looking for help with  How to learn more easily 
 - 📫 How to reach me: Cvnberke@gmail.com 
 
